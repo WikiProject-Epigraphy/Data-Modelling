@@ -1,2 +1,2 @@
 # Data-Modelling
-This repository collects documentation and concepts about Epigraphic Data Modelling. While [Practical Outcomes](https://github.com/WikiProject-Epigraphy/Practical-outcomes?tab=readme-ov-file#practical-outcomes) is intended to be the final results of the workslow, this section will be mainly used for documenting and reasoning with examples and showcases. 
+This repository collects documentation and concepts about Epigraphic Data Modelling. While [Practical Outcomes].This includes vocabularies matching such as FAIR Vocabulary, EAGLE and EpiDoc

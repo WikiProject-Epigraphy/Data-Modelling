@@ -16,7 +16,7 @@
 | Status tituli | status_tituli | [P12020](https://www.wikidata.org/wiki/Property:P12020) |
 | Religio | religio | [P140](https://www.wikidata.org/wiki/Property:P140) |
 | ID EDR | id_nr | [P12495](https://www.wikidata.org/wiki/Property:P12495) |
-| ID CIL | Bibliografia | <br>[P195](https://www.wikidata.org/wiki/Property:P195) = [Q691007](https://www.wikidata.org/wiki/Q691007) with qualifier [P217](https://www.wikidata.org/wiki/Property:P217) |
+| ID CIL | Bibliografia | [P195](https://www.wikidata.org/wiki/Property:P195) = [Q691007](https://www.wikidata.org/wiki/Q691007) with qualifier [P217](https://www.wikidata.org/wiki/Property:P217) |
 | EDCS | Bibliografia | [P11656](https://www.wikidata.org/wiki/Property:P11656) |
 | EDH | Bibliografia | [P11273](https://www.wikidata.org/wiki/Property:P11273) |
 | TM | Bibliografia | [P8532](https://www.wikidata.org/wiki/Property:P8532) |
